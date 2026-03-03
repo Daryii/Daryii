@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daryi</h1>
 <h3 align="center">A software development student from the Netherlands</h3>
 
-- 🔭 I’m currently working on [Lesvoorbereidingssysteem](https://github.com/NewOrgzz/Lesvoorbereidingssysteem)
-- 🌱 I’m learning more about **Full-stack web development**
+- I’m currently working on [Lesvoorbereidingssysteem](https://github.com/NewOrgzz/Lesvoorbereidingssysteem)
+- I’m learning more about **Full-stack web development**
 
 
-<h3 align="left">📫 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:D.kiflai10@gmail.com">D.kiflai10@gmail.com</a>
 </p>
