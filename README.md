@@ -26,4 +26,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daryii&show_icons=true&locale=en&layout=compact" alt="daryii" /></p>
+
